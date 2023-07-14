@@ -6,9 +6,6 @@ Mobile(iOS, Android and React Native) & Web(PHP, Reactjs, Nodejs) application de
 
 <img align="right" alt="GIF" src="https://github.com/TalentDev0329/TalentDev0329/blob/main/Source/image.gif?raw=true" width="400" height="250" />
 
-<a href="https://www.github.com/TalentDev0329" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/TalentDev0329?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-
 ### My GitHub Stats
 
 <a href="http://www.github.com/TalentDev0329">
