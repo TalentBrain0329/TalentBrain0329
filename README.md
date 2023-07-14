@@ -4,7 +4,7 @@ Mobile(iOS, Android and React Native) & Web(PHP, Reactjs, Nodejs) application de
 ---------------
 
 
-<img align="right" alt="GIF" src="https://github.com/TalentDev0329/TalentDev0329/blob/main/assets/images/image.gif?raw=true" width="400" height="250" />
+<img align="right" alt="GIF" src="https://github.com/TalentDev0329/TalentDev0329//main/assets/images/image.gif?raw=true" width="400" height="250" />
 
 ### My GitHub Stats
 
@@ -21,26 +21,26 @@ Mobile(iOS, Android and React Native) & Web(PHP, Reactjs, Nodejs) application de
 
 ### Skills
 <p align="left">
-<a href="https://www.swift.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/TalentDev0329/TalentDev0329/blob/assets/icons/skills/swift-colored.svg" width="36" height="36" alt="Swift" /></a>
-<a href="https://www.kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/TalentDev0329/TalentDev0329/blob/assets/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/TalentDev0329/TalentDev0329/blob/assets/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://www.flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/TalentDev0329/TalentDev0329/blob/assets/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/TalentDev0329/TalentDev0329/blob/assets/icons/skills/typescript-colored.svg" width="36" height="36" alt="Typescript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/TalentDev0329/TalentDev0329/blob/assets/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
- <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/TalentDev0329/TalentDev0329/blob/assets/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/TalentDev0329/TalentDev0329/blob/assets/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/TalentDev0329/TalentDev0329/blob/assets/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/TalentDev0329/TalentDev0329/blob/assets/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/TalentDev0329/TalentDev0329/blob/assets/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/TalentDev0329/TalentDev0329/blob/assets/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/TalentDev0329/TalentDev0329/blob/assets/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>
-<a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/TalentDev0329/TalentDev0329/blob/assets/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/TalentDev0329/TalentDev0329/blob/assets/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/TalentDev0329/TalentDev0329/blob/assets/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/TalentDev0329/TalentDev0329/blob/assets/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
- <a href="https://www.babeljs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/TalentDev0329/TalentDev0329/blob/assets/icons/skills/babel-colored.svg" width="36" height="36" alt="Babel" /></a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/TalentDev0329/TalentDev0329/blob/assets/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
-<a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/TalentDev0329/TalentDev0329/blob/assets/icons/skills/laravel-colored.svg" width="36" height="36" alt="Lavarel" /></a>
+<a href="https://www.swift.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/TalentDev0329/TalentDev0329//main/assets/icons/skills/swift-colored.svg" width="36" height="36" alt="Swift" /></a>
+<a href="https://www.kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/TalentDev0329/TalentDev0329//main/assets/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/TalentDev0329/TalentDev0329//main/assets/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+<a href="https://www.flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/TalentDev0329/TalentDev0329//main/assets/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/TalentDev0329/TalentDev0329//main/assets/icons/skills/typescript-colored.svg" width="36" height="36" alt="Typescript" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/TalentDev0329/TalentDev0329//main/assets/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
+ <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/TalentDev0329/TalentDev0329//main/assets/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/TalentDev0329/TalentDev0329//main/assets/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/TalentDev0329/TalentDev0329//main/assets/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/TalentDev0329/TalentDev0329//main/assets/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/TalentDev0329/TalentDev0329//main/assets/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/TalentDev0329/TalentDev0329//main/assets/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
+<a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/TalentDev0329/TalentDev0329//main/assets/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>
+<a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/TalentDev0329/TalentDev0329//main/assets/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/TalentDev0329/TalentDev0329//main/assets/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/TalentDev0329/TalentDev0329//main/assets/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/TalentDev0329/TalentDev0329//main/assets/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
+ <a href="https://www.babeljs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/TalentDev0329/TalentDev0329//main/assets/icons/skills/babel-colored.svg" width="36" height="36" alt="Babel" /></a>
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/TalentDev0329/TalentDev0329//main/assets/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
+<a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/TalentDev0329/TalentDev0329//main/assets/icons/skills/laravel-colored.svg" width="36" height="36" alt="Lavarel" /></a>
 </p>
 
  
