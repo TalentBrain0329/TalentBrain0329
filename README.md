@@ -4,13 +4,13 @@ I am an Mobile(iOS, Android and React Native) & Web(PHP, Reactjs, Nodejs) applic
 ---------------
 
 
-<img align="right" alt="GIF" src="https://github.com/TalentDev0329/TalentDev0329//main/assets/images/image.gif?raw=true" width="400" height="250" />
+<img align="right" alt="GIF" src="https://github.com/TalentBrain0329/TalentBrain0329//main/assets/images/image.gif?raw=true" width="400" height="250" />
 
 ### My GitHub Stats
 
 <a href="http://www.github.com/TalentBrain0329">
-<!--  <img align="left" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=TalentDev0329&theme=vue" /> -->
- <img align="right" src="https://github-profile-trophy.vercel.app/?username=TalentDev0329&theme=flat&title=Stars,Followers,Commit,MultiLanguage&margin-w=5&row=2&column=2">
+<!--  <img align="left" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=TalentBrain0329&theme=vue" /> -->
+ <img align="right" src="https://github-profile-trophy.vercel.app/?username=TalentBrain0329&theme=flat&title=Stars,Followers,Commit,MultiLanguage&margin-w=5&row=2&column=2">
  
  <img src="https://github-readme-stats.vercel.app/api?username=TalentBrain0329&show_icons=false&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="TalentBrain0329's GitHub stats" />
 
@@ -37,10 +37,10 @@ I am an Mobile(iOS, Android and React Native) & Web(PHP, Reactjs, Nodejs) applic
 <a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/TalentBrain0329/TalentDev0329//main/assets/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/TalentBrain0329/TalentDev0329//main/assets/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/TalentBrain0329/TalentDev0329//main/assets/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/TalentBrain0329/TalentDev0329//main/assets/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
- <a href="https://www.babeljs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/TalentBrain0329/TalentDev0329//main/assets/icons/skills/babel-colored.svg" width="36" height="36" alt="Babel" /></a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/TalentBrain0329/TalentDev0329//main/assets/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
-<a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/TalentBrain0329/TalentDev0329//main/assets/icons/skills/laravel-colored.svg" width="36" height="36" alt="Lavarel" /></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/TalentBrain0329/TalentBrain0329//main/assets/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
+ <a href="https://www.babeljs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/TalentBrain0329/TalentBrain0329//main/assets/icons/skills/babel-colored.svg" width="36" height="36" alt="Babel" /></a>
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/TalentBrain0329/TalentBrain0329//main/assets/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
+<a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/TalentBrain0329/TalentBrain0329//main/assets/icons/skills/laravel-colored.svg" width="36" height="36" alt="Lavarel" /></a>
 </p>
 
  
