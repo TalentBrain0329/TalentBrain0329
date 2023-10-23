@@ -21,8 +21,8 @@ I am a Web(Reactjs, Nodejs, PHP)  and React Native application developer
 
 ### Skills
 <p align="left">
-<a href="https://www.swift.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/TalentBrain0329/TalentBrain0329/main/assets/icons/skills/swift-colored.svg" width="36" height="36" alt="Swift" /></a>
-<a href="https://www.kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/TalentBrain0329/TalentBrain0329/main/assets/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" /></a>
+<!-- <a href="https://www.swift.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/TalentBrain0329/TalentBrain0329/main/assets/icons/skills/swift-colored.svg" width="36" height="36" alt="Swift" /></a> -->
+<!-- <a href="https://www.kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/TalentBrain0329/TalentBrain0329/main/assets/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" /></a> -->
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/TalentBrain0329/TalentBrain0329/main/assets/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
 <a href="https://www.flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/TalentBrain0329/TalentBrain0329/main/assets/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/TalentBrain0329/TalentBrain0329//main/assets/icons/skills/typescript-colored.svg" width="36" height="36" alt="Typescript" /></a>
