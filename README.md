@@ -46,7 +46,7 @@ I am a Web(Reactjs, Nodejs, PHP)  and React Native application developer
  
 - 👋 Hi, I’m Xiuhua Yan
 - 👨🏽‍💻 I can start new project now;
-- 👀 I’m interested in Mobile applicaion development(iOS, Android, Hybird-React Native) and web application development with React, Node, PHP) 
+- 👀 I’m interested in web application development with React, Node, PHP and Mobile app development(iOS, React Native)
 - 🌱 I’m currently learning Flutter.
 - 💬 Ask me about anything, I am happy to help;
 - 💞️ I’m looking to collaborate on Remote and Contract role.
